@@ -381,7 +381,7 @@ article .icon{
 
 .contact-info-container{
     display: flex;
-    gap: 0.5rem;
+    gap: 1rem;
     margin: 1rem;
     justify-content: center;
     align-content: center;
